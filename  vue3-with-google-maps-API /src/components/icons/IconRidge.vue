@@ -1,0 +1,39 @@
+<template>
+  <svg
+    width="8"
+    height="24"
+    viewBox="0 0 8 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <rect
+      x="3.625"
+      y="0.375"
+      width="0.75"
+      height="23.25"
+      rx="0.375"
+      stroke="inherit"
+      stroke-width="0.75"
+    />
+    <rect
+      x="0.5"
+      y="10.75"
+      width="0.5"
+      height="7"
+      rx="0.25"
+      transform="rotate(-90 0.5 10.75)"
+      stroke="inherit"
+      stroke-width="0.5"
+    />
+    <rect
+      x="0.5"
+      y="13.75"
+      width="0.5"
+      height="7"
+      rx="0.25"
+      transform="rotate(-90 0.5 13.75)"
+      stroke="inherit"
+      stroke-width="0.5"
+    />
+  </svg>
+</template>

@@ -1,0 +1,13 @@
+.-z-1 {
+  z-index: -1;
+}
+
+.input input:focus ~ label,
+.input input:not(:placeholder-shown) ~ label {
+  @apply top-4 left-6 transform;
+}
+
+.input input:focus ~ label,
+.input input.active ~ label {
+  @apply -top-3 left-1 z-10 scale-75 bg-white px-3;
+}

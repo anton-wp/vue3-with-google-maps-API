@@ -1,0 +1,16 @@
+export const roofPages = [
+  "Field",
+  "Endlap",
+  "Sidelap",
+  "Walls",
+  "Flashing",
+  "Ridge",
+  "Closure",
+  "Fasteners",
+  "RepairsNeeded",
+  "Penetration",
+  "ACUnit",
+  "Drain",
+  "NewSiliconeWalkpad",
+  "Skylights",
+];
